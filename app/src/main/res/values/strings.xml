@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Health Care</string>
+    <string name="design_syst">Smart Health Care</string>
+    <string name="fully_coded"> Membantu dalam Mendiagnosa Penyakit Anda </string>
+    <string name="text1">SPK</string>
+    <string name="text2">Informasi dan Pencegahan Penyakit</string>
+    <string name="text3">Layanan Konsultasi</string>
+    <string name="diagnosa_pe">"Diagnosa Penyakit Anda "</string>
+    <string name="diagnosa">Default</string>
+
+</resources>
